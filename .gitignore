@@ -31,7 +31,6 @@ logs/
 *.pid
 
 # ---- IDE 和编辑器 ----
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -65,3 +64,5 @@ test_*.py
 .DS_Store
 Thumbs.db
 Desktop.ini
+config.bat
+node_modules
